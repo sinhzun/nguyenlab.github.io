@@ -1,7 +1,9 @@
 <markdown>
 ## Active
-- Nguyen Truong Son
-- Tran Van Khanh
+* Trieu Hai Long
+* Nguyen Truong Son
+* Tran Van Khanh
+* Vu Trong Sinh
 
 ## Alumi
 - Ong Xuan Hong
